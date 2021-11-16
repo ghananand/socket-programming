@@ -1,3 +1,2 @@
 this is a test for git upstream and git merge functions.
 
-hello this is ghana
